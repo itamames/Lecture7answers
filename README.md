@@ -28,4 +28,4 @@
 				minute + customer.getTimeNeededAtRegister();
 		}
 	}
-	```
+```
